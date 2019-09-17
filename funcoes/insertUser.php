@@ -25,4 +25,5 @@
     $pass = $_POST['pass'];
 
     insertUser($name, $pass);
+    //a funcao insert funciona no index, mas nao funciona aqui
 ?>

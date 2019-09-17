@@ -7,5 +7,5 @@
     
     deleteUser($id);
 
-   
+   //a funçao delete esta funcionando normalmente no index, mas nao consegui fazer ela funcionar aqui
 ?>

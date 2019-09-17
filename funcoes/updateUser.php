@@ -31,4 +31,5 @@
     $pass = $_POST['pass'];
 
     updateUser($id, $name, $pass);
+    // a funcao update funciona no index mas nao funciona aqui
 ?>
